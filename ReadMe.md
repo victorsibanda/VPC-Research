@@ -31,7 +31,7 @@ Better security
 ## Private and Public Subnets
 
 - A Private Subnet is a subnet in which it instances only need private IP which mean there is no internet access unless you add the route 0.0.0.0/0.
-- A public subnet routes 0.0.0.0/0 through an internet gateway. You would need a private IP to talk to the internet. 
+- A public subnet routes 0.0.0.0/0 through an internet gateway. You would need a private IP to talk to the internet. When using a public subnet f you want your instance in the public subnet to communicate with the internet over IPv6, it must have an IPv6 address this is the same with IPv4
 
 # NACL's vs Security Groups
 
