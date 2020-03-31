@@ -1,5 +1,7 @@
 # VPC - Virtual Private cloud
 
+![subnets-diagram](https://user-images.githubusercontent.com/60632288/78002915-cc82c200-732f-11ea-905b-6a198597276f.png)
+
 It is a configurable pool of shared computing resources within a public cloud environment, such as AWS.
 The use of VLAN allows for the isolation of one cloud user from either users of the same cloud and public cloud users.
 VPC is most commonly used as IaaS.
